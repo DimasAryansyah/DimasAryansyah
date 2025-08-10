@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate web developer focusing on full-stack developer.  
 I love building simple, clean, and efficient web applications.  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dimas-aryansyah/)ku ya.
+If you’re interested in getting to know me, feel free to follow my [Linkedin](https://www.linkedin.com/in/dimas-aryansyah/).
 
 <p align="left">
 <a href="https://github.com/dimasaryansyahh">
